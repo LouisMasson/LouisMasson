@@ -21,7 +21,7 @@ I sit at the intersection of **SaaS sales, solution engineering, and AI-enabled 
 - **Data / Enterprise:** ServiceNow, Snowflake, Power BI  
 
 ## Open-source / Side builds
-- **ClaudeUsageBar** — macOS menu bar app to monitor Claude subscription usage in real time.
+- **ClaudeUsageBar** — macOS menu bar app to monitor Claude subscription usage in real time (https://claudeusagebar.app).
 
 ## Certifications (high signal)
 Anthropic (Claude Code / AI Fluency / Agent skills), Microsoft (Copilot business value), DeepLearning.AI, FinOps Foundation, Azure fundamentals…
@@ -38,4 +38,4 @@ Anthropic (Claude Code / AI Fluency / Agent skills), Microsoft (Copilot business
 - Writing: https://lmasson04pro.substack.com/  
 - X: https://x.com/Lmasson04pro  
 - Email: louis@louismasson.me
-- ClaudeUsageBar : https://claudeusagebar.louismasson.me/
+- ClaudeUsageBar : https://claudeusagebar.app
