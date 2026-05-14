@@ -39,3 +39,4 @@ Anthropic (Claude Code / AI Fluency / Agent skills), Microsoft (Copilot business
 - X: https://x.com/Lmasson04pro  
 - Email: louis@louismasson.me
 - ClaudeUsageBar : https://claudeusagebar.app
+- The Catalogue Studio : https://thecatalogue.studio/
