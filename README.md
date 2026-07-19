@@ -1,42 +1,45 @@
-# Louis Masson — Closing · Building · Shipping
+<div align="center">
+  <img src="./assets/profile-hero.svg" alt="Louis Masson — Sales, Engineering and AI" width="100%" />
+</div>
 
-Account Manager @ **Devoteam Luxembourg** 🇱🇺 — I sell tech **and** I build it.
+<br />
 
-I sit at the intersection of **SaaS sales, solution engineering, and AI-enabled shipping**: I turn messy business problems into deployable solutions, and I’m obsessed with proving value fast (demos > decks).
+I’m an Account Manager at **Devoteam Luxembourg** who also designs, ships, and operates software.
 
-- 💼 Account Management / BizDev — **€5M annual signing target**
-- 🧠 AI builder mindset — agentic workflows, automation, rapid prototyping
-- ☁️ Hands-on infra — self-hosted stack (deploy, observe, iterate)
-- ✍️ I write about AI, tech & innovation
+I work where commercial strategy meets product engineering: turning ambiguous business needs into practical products, validating value quickly, and improving what reaches production.
 
-## What I’m focused on
-- **Shipping AI tools** that reduce friction in real workflows (sales, ops, delivery)
-- **Automation** (n8n, no-code/low-code + LLMs) to compress cycles
-- **Self-hosting** like a product team: deploy, monitor, improve
+## Currently building
 
-## Toolbox (the stuff I actually use)
-- **AI / IDEs:** Cursor, Windsurf, Claude Code, Replit  
-- **Automation:** n8n  
-- **Infra:** Dokploy, Docker, Grafana, Cloudflare  
-- **Data / Enterprise:** ServiceNow, Snowflake, Power BI  
+| Project | What it is | Explore |
+| --- | --- | --- |
+| **The Catalogue Studio** | A curated product discovery platform built around useful, intentional selections. | [thecatalogue.studio](https://thecatalogue.studio) |
+| **ClaudeUsageBar** | A native macOS menu bar app for monitoring Claude subscription usage. | [Website](https://claudeusagebar.app) · [Repository](https://github.com/LouisMasson/ClaudeUsageBar) |
+| **louismasson.me** | My personal corner of the web for projects, experiments, and writing. | [louismasson.me](https://louismasson.me) |
 
-## Open-source / Side builds
-- **ClaudeUsageBar** — macOS menu bar app to monitor Claude subscription usage in real time (https://claudeusagebar.app).
+## How I work
 
-## Certifications (high signal)
-Anthropic (Claude Code / AI Fluency / Agent skills), Microsoft (Copilot business value), DeepLearning.AI, FinOps Foundation, Azure fundamentals…
+```text
+01  Understand the workflow and the real constraint
+02  Prototype the smallest useful version
+03  Ship, observe, and iterate
+```
 
-## Outside work
-🖨️ 3D printing (functional prints for my setup) — because building is more fun when it’s tangible.
+**Build:** AI-assisted development, automation, rapid prototyping  
+**Operate:** Docker, Cloudflare, self-hosted infrastructure, observability  
+**Connect:** SaaS sales, solution engineering, enterprise data
+
+## Public repositories
+
+- [**ClaudeUsageBar**](https://github.com/LouisMasson/ClaudeUsageBar) — native macOS usage monitor.
+- [**gym-logger**](https://github.com/LouisMasson/gym-logger) — a focused workout logging project.
+- [**LouisMasson**](https://github.com/LouisMasson/LouisMasson) — the source for this profile.
 
 ---
 
-### Links
-- Website: https://louismasson.me  
-- GitHub: https://github.com/LouisMasson  
-- LinkedIn: https://www.linkedin.com/in/louis-masson-businessdeveloper/  
-- Writing: https://lmasson04pro.substack.com/  
-- X: https://x.com/Lmasson04pro  
-- Email: louis@louismasson.me
-- ClaudeUsageBar : https://claudeusagebar.app
-- The Catalogue Studio : https://thecatalogue.studio/
+<div align="center">
+  <a href="https://louismasson.me">Website</a> ·
+  <a href="https://www.linkedin.com/in/louis-masson-businessdeveloper/">LinkedIn</a> ·
+  <a href="https://lmasson04pro.substack.com/">Writing</a> ·
+  <a href="https://x.com/Lmasson04pro">X</a> ·
+  <a href="mailto:louis@louismasson.me">Email</a>
+</div>
