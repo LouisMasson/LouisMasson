@@ -15,6 +15,7 @@ I work where commercial strategy meets product engineering: turning ambiguous bu
 | **The Catalogue Studio** | A curated product discovery platform built around useful, intentional selections. | [thecatalogue.studio](https://thecatalogue.studio) |
 | **ClaudeUsageBar** | A native macOS menu bar app for monitoring Claude subscription usage. | [Website](https://claudeusagebar.app) · [Repository](https://github.com/LouisMasson/ClaudeUsageBar) |
 | **louismasson.me** | My personal corner of the web for projects, experiments, and writing. | [louismasson.me](https://louismasson.me) |
+| **hotelradar.com** | Personal marketing employee for small hotel owner. | [hotelradar.com](https://hotel-radar-landing.vercel.app/) |
 
 ## How I work
 
