@@ -31,7 +31,6 @@ I work where commercial strategy meets product engineering: turning ambiguous bu
 ## Public repositories
 
 - [**ClaudeUsageBar**](https://github.com/LouisMasson/ClaudeUsageBar) — native macOS usage monitor.
-- [**gym-logger**](https://github.com/LouisMasson/gym-logger) — a focused workout logging project.
 - [**LouisMasson**](https://github.com/LouisMasson/LouisMasson) — the source for this profile.
 
 ---
